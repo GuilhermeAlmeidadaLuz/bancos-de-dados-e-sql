@@ -1,5 +1,4 @@
 ### `app/`
-Arquivos da aplicação, front-end, back-end e instruções para execução.
 
 # Sistema de Consulta do Projeto Integrador - Escola_DB
 
